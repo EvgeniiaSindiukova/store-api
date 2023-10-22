@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11974c58.css",
+    "main.js": "/static/js/main.10e235a8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/search-interface-symbol.png": "/static/media/search-interface-symbol.3edd1cd08a02c9f1f8f1.png",
+    "static/media/nervous_logo.png": "/static/media/nervous_logo.da14dc01170008f30a96.png",
+    "static/media/logo-furniture-black.png": "/static/media/logo-furniture-black.3f0252f9a573f2dea117.png",
+    "index.html": "/index.html",
+    "main.11974c58.css.map": "/static/css/main.11974c58.css.map",
+    "main.10e235a8.js.map": "/static/js/main.10e235a8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11974c58.css",
+    "static/js/main.10e235a8.js"
+  ]
+}
