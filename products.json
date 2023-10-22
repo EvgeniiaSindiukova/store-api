@@ -1,0 +1,170 @@
+[
+  {
+    "name": "accent chair",
+    "featured": false,
+    "price": 25,
+    "company": "marcos",
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1509764716339-c509a0c0d3e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "featured": false,
+    "company": "liddy",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "featured": false,
+    "company": "liddy",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1365&q=80"
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "company": "marcos",
+    "featured": false,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1611967164521-abae8fba4668?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1335&q=80"
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "liddy",
+    "featured": false,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1622986339425-7f92e62dab42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "featured": false,
+    "company": "ikea",
+    "rating": 4.55,
+    "image": "https://images.unsplash.com/photo-1617850687361-a07b256ff259?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1335&q=80"
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "featured": false,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1586024486164-ce9b3d87e09f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1878&q=80"
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1645124057137-46fddef3f74d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1334&q=80"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "featured": false,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1635286721033-e11cf9e632c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1302&q=80"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "featured": false,
+    "company": "liddy",
+    "image": "https://images.unsplash.com/photo-1583324746266-6ad2266a2d89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1366&q=80"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "featured": false,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1593085260707-5377ba37f868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1823&q=80"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "featured": false,
+    "company": "liddy",
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "featured": false,
+    "company": "marcos",
+    "image": "https://unsplash.com/photos/fZuleEfeA1Q"
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "featured": false,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1631700679578-621a258507bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "liddy",
+    "image": "https://images.unsplash.com/photo-1509764986935-841accffc894?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "marcos",
+    "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1335&q=80"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "featured": false,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1584116831190-7a5b2765a30a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2328&q=80"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "featured": false,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1524820801657-fd59673fbb05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2344&q=80"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "featured": false,
+    "company": "ikea",
+    "image": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1564383424695-05a0668266ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2741&q=80"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa",
+    "image": "https://images.unsplash.com/photo-1605635544350-5796fb1622d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2676&q=80"
+  }
+]
